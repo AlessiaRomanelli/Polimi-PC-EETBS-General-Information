@@ -7,7 +7,6 @@ Before attending the first session of the course you should fill the following s
 
 [EETBS Survey Link](https://goo.gl/forms/CFY8Acq2qjNiIHSg1)
 
-### Dropbox
  
  In case you do not have a DropBox account, You should crate a free account [here](https://www.dropbox.com/) and indicate the corresponding email address in the first section of the survey
 
